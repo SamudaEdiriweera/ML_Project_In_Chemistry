@@ -1,0 +1,58 @@
+Reaction,Reaction Temperature ,Catalyst,Reagent,Reactant_1,Reactant_1_polarity,Reactant_2,Reactant_2_polarity,Polarity,Boiling pooint (Bp),Dielectric Constant,Toxicity,Freezing point,Solvent
+Grignard,15,NiCl2,CH3MgCl,ketone,P,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Grignard,15,NiCl2,CH3MgCl,aldehyde,P,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Grignard,15,NiCl2,CH3MgCl,ester,P,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Grignard,15,NiCl2,CH3MgCl,carbon_dioxide,NP,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Grignard,15,NiCl2,CH3MgCl,epoxide,NP,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Grignard,15,NiCl2,CH3MgCl,formaldehyde,P,Null,Null,NP,84.6,7.2,T,-69.2,"1,2-Dimethoxyethane"
+Esterification,70,H2SO4,Null,ethanoic_acid,P,Propanol,P,P,97.2,20.1,LT,-126,1-Propanol
+Diels-Alder,40,Null,Null,Cyclopentadiene,NP,Prop-2-ene-nitrile,P,P,64.7,32.7,T,-97.6,Methanol
+Friedel_Craft_Alkylation,25,AlCl3,CH3Cl,Benzene,NP,Null,Null,NP,80.1,2.27,T,5.5,Benzene
+Friedel_Craft_Acylation,60,AlCl3,CH3COCL,Benzene,NP,Null,Null,NP,80.1,2.27,T,5.5,Benzene
+Friedel_Craft_Acylation,,AlCl3,(CH3)3CCH2Cl,Benzene,NP,Null,Null,NP,80.1,2.27,T,5.5,Benzene
+Friedel_Craft_Acylation,80,AlCl3,(CH3CO)2O,Benzene,NP,Null,Null,NP,80.1,2.27,T,5.5,Benzene
+Diels-Alder,100,Null,Null,Butadiene,NP,maleic anhydride,NP,NP,80.1,2.27,T,5.5,Benzene
+Wittig,23,Null,(Ph)3P=CHC2H5,Benzaldehyde,P,Null,Null,NP,80.1,2.27,T,5.5,Benzene
+Grignard,15,NiCl2,CH3MgCl,ketone,P,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Grignard,15,NiCl2,CH3MgCl,aldehyde,P,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Grignard,15,NiCl2,CH3MgCl,ester,P,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Grignard,15,NiCl2,CH3MgCl,carbon_doixide,NP,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Grignard,15,NiCl2,CH3MgCl,epoxide,NP,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Grignard,15,NiCl2,CH3MgCl,formaldehyde,P,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Diels-Alder,25,Null,Null,cyclopentadiene,NP, acrolein,P,NP,34.5,4.33,T,-116.2,Diethyl ether
+Diels-Alder,200,Null,Null,cyclopentadiene,NP,ethene,NP,NP,34.5,4.33,T,-116.2,Diethyl ether
+Diels-Alder,187.5,Null,Null,cyclopentadiene,NP, Vinyl acetate,P,NP,34.5,4.33,T,-116.2,Diethyl ether
+Wittig,100,Null,phosphorous_ylide,Benzophenone,NP,Null,Null,NP,34.5,4.33,T,-116.2,Diethyl ether
+Reduction_alkene,150,Pd/C,H2,ethene,NP,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Reduction_alkene,150,PtO2,H2,cyclohex-2-en-1-one,P,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Reduction_alkene,150,Pd/C,H2,Cyclohexylideneacetonitrile,P,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Reduction_alkene,150,Pd/C,H2,Methyl Cinnamate,P,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Reduction_alkene,150,Pd/C,H2,"1,2-dimethylcyclohexene",NP,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Reduction_aldehyde,25,Null,NaBH4,Benzaldehyde,P,Null,Null,P,78.3,24.5,T,-114,Ethanol
+Grignard,15,NiCl2,CH3MgCl,ketone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Grignard,15,NiCl2,CH3MgCl,aldehyde,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Grignard,15,NiCl2,CH3MgCl,ester,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Grignard,15,NiCl2,CH3MgCl,carbon_dioxide,NP,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Grignard,15,NiCl2,CH3MgCl,epoxide,NP,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Grignard,15,NiCl2,CH3MgCl,formaldehyde,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Wittig,100,Null,phosphorous_ylide,cyclohexanone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Reduction_ketone,25,Null,"LiAlH4,H20",2-butanone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Reduction_ketone,25,Null,"LiAlH4,H20",cyclohexanone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Reduction_ketone,,Null,TiBH4,6-dimethyl-3-methyl-2-cyclohexenone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Reduction_ketone,25,Null,NaBH4,Benzophenone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Reduction_ketone,25,Null,Bu4NBH4,Acetophenone,P,Null,Null,NP,66,7.58,T,-108.4,Tetrahydrofuran
+Friedel_Craft_Alkylation,,AlCl3,CH3Cl,Toluene,NP,Null,Null,NP,111,2.38,T,-93,toluene
+Friedel_Craft_Acylation,,AlCl3,CH3COCL,Toluene,NP,Null,Null,NP,111,2.38,T,-93,toluene
+Diels-Alder,200,Null,Null,Butadiene,NP,ethene,NP,NP,111,2.38,T,-93,toluene
+Diels-Alder,140,Null,Null,Butadiene,NP,Butenone,P,NP,111,2.38,T,-93,toluene
+Esterification,50,H2SO4,Null,ethanoic_anhydride,P,methanol,P,P,115,12.4,LT,-41.6,Pyridine
+Esterification,70,H2SO4,Null,acetyl_chloride,P,ethanol,P,P,115,12.4,LT,-41.6,Pyridine
+Grignard,25,NiCl2,"CH3MgBr,H3O+",benzonitrile,P,Null,Null,NP,259,3.9,VT,26,Diphenyl ether
+Grignard,25,NiCl2,"C2H5MgCl,H3O+",cyclohexanecarbonitrile,P,Null,Null,NP,259,3.9,VT,26,Diphenyl ether
+Grignard,25,NiCl2,"C6H5MgBr,H3O+",butanenitrile,P,Null,Null,NP,259,3.9,VT,26,Diphenyl ether
+Grignard,25,NiCl2,"CH3MgCl,H3O+",cyanocyclopentane,P,Null,Null,NP,259,3.9,VT,26,Diphenyl ether
+Friedel_Craft_Alkylation,130,AlCl3,CH2CH2,Benzene,NP,Null,Null,P,210.5,34.82,T,5.5,Nitrobenzene
+Friedel_Craft_Alkylation,80,AlCl3,CH3CH2Cl,Bromobenzene,P,Null,Null,P,210.5,34.82,T,5.5,Nitrobenzene
+Diels-Alder,0,Null,Null,cyclopentadiene,NP,maleic anhydride,NP,P,39.6,8.93,LT,-96.7,Dichloromethane
+Wittig,23,Null,(Ph)3P=C(CO2C2H5)CH3,6-ethyl-6-methylhept-2-enal,P,Null,Null,P,39.6,8.93,LT,-96.7,Dichloromethane
+Diels-Alder,150,Null,Null,anthracene,NP,maleic anhydride,NP,NP,144,2.6,LT,-25.2,ortho-Xylene
